@@ -31,8 +31,8 @@ Print the original and equalized image using cv2.imshow() and end the program.
 
 ## Program:
 ```python
-# Developed By: Srinivasan S
-# Register Number: 212220230048
+# Developed By: THAMARAI SELVAN 
+# Register Number: 212221230115
 import cv2
 import matplotlib.pyplot as plt
 
